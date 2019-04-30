@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import Navbar from "./components/Navbar";
-import Jumbotron from "./components/Jumbotron";
-import FriendCard from "./components/FriendCard";
-import Footer from "./components/Footer";
+import Navbar from "src/components/Navbar";
+import Jumbotron from "src/components/Jumbotron";
+import FriendCard from "src/components/FriendCard";
+import Footer from "src/components/Footer";
 import croc from "./croc.json";
 import "./App.css";
 
