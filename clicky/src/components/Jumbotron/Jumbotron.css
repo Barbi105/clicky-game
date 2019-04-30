@@ -1,18 +1,28 @@
+body{
+	background: #FEAC5E;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #FEAC5E, #C779D0, #4BC0C8);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #FEAC5E, #C779D0, #4BC0C8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	font-family: 'Raleway', sans-serif;
+	
+
+}
 .header{
-	background-color: #ccc;
+	background-color: rgb (133, 157, 202);
 	position: relative;
 	width: 100%;
 }
 
 h1{
+	font-family: 'Wendy One', sans-serif;
 	text-align: center;
 	font-size: 90px;
 	font-weight: bold;
-	padding: 90px 0 20px 0; 
+	padding: 10px 0 20px 0; 
 }
 
 h2{
 	text-align: center;
-	font-size: 25px;
+	font-size: 20px;
 	padding-bottom: 40px;
+	font-weight: bold;
 }
