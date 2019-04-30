@@ -7,9 +7,8 @@ class Navbar extends Component {
       <nav className="navbar navbar-default navbar-fixed-top">
          <ul>
           <li className="itemLeft">Clicky Game</li>
-          <li className="itemCenter"></li>
+          {/* <li className="itemCenter"></li> */}
           <li className="itemRight">Score: {this.props.score}</li>
-          <li className="itemRight">Top Score: {this.props.topScore}</li>
         </ul>
       </nav>
     );
