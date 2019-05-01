@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.02dea271.chunk.css",
+    "main.js": "/clicky-game/static/js/main.db7dc24d.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.db7dc24d.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/clicky-game/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/clicky-game/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.02aad430654ede2627ed5bd13812605d.js": "/clicky-game/precache-manifest.02aad430654ede2627ed5bd13812605d.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.02dea271.chunk.css.map": "/clicky-game/static/css/main.02dea271.chunk.css.map",
+    "static/media/croc1.jpg": "/clicky-game/static/media/croc1.0afa2a87.jpg",
+    "static/media/croc10.jpg": "/clicky-game/static/media/croc10.6fbfac5e.jpg",
+    "static/media/croc11.jpg": "/clicky-game/static/media/croc11.001ead76.jpg",
+    "static/media/croc12.jpg": "/clicky-game/static/media/croc12.a251bb3c.jpg",
+    "static/media/croc2.jpg": "/clicky-game/static/media/croc2.7b53d19b.jpg",
+    "static/media/croc3.jpg": "/clicky-game/static/media/croc3.faa1a358.jpg",
+    "static/media/croc4.jpg": "/clicky-game/static/media/croc4.4bc589c7.jpg",
+    "static/media/croc5.jpg": "/clicky-game/static/media/croc5.f7aa6420.jpg",
+    "static/media/croc6.jpg": "/clicky-game/static/media/croc6.905e3812.jpg",
+    "static/media/croc7.jpg": "/clicky-game/static/media/croc7.be89676a.jpg",
+    "static/media/croc8.jpg": "/clicky-game/static/media/croc8.5d997216.jpg",
+    "static/media/croc9.jpg": "/clicky-game/static/media/croc9.6bcb6408.jpg"
+  }
+}
